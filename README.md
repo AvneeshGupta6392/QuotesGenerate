@@ -16,5 +16,4 @@ A simple and interactive web app that generates random quotes dynamically.
 * DOM manipulation & event handling
 
 ### 🌐 Live Demo
-
 [View Live Project]: https://quotesgenerate.vercel.app/
